@@ -2,6 +2,7 @@
 ls
 while :
 do
+  cd
   cd pi_analoger
   python analoger.py
   cd
