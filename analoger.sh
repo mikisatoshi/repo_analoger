@@ -4,7 +4,7 @@ while :
 do
   cd
   cd pi_analoger
-  python analoger.py
+  python analoger.py 1
   cd
   files="/home/pi/repo_analoger/storage/*"
   for pathfile in $files
